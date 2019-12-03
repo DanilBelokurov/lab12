@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClient",
+            "request": "launch",
+            "mainClass": "MainClient",
+            "projectName": "lab12_b2c6b88e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "lab12_b2c6b88e"
+        }
+    ]
+}
